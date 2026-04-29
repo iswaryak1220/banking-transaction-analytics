@@ -1,0 +1,16 @@
+transaction_id,customer_id,transaction_date,transaction_type,transaction_amount,merchant_category,channel,location,risk_flag,month,year,high_value_flag
+TXN001,C001,2025-01-03,Debit,250.75,Grocery,POS,Dallas,Low,1,2025,No
+TXN002,C002,2025-01-05,Credit,1500.0,Salary,Online,Austin,Low,1,2025,No
+TXN003,C003,2025-01-08,Debit,4200.5,Electronics,Online,Houston,High,1,2025,No
+TXN004,C001,2025-01-12,Debit,85.2,Restaurant,POS,Dallas,Low,1,2025,No
+TXN005,C004,2025-02-01,Debit,7600.0,Travel,Online,New York,High,2,2025,Yes
+TXN006,C005,2025-02-03,Credit,2200.0,Refund,Mobile,Denver,Low,2,2025,No
+TXN007,C002,2025-02-10,Debit,300.0,Utilities,Online,Austin,Low,2,2025,No
+TXN008,C006,2025-02-14,Debit,9800.0,Jewelry,Online,Miami,High,2,2025,Yes
+TXN009,C003,2025-03-02,Credit,1800.0,Salary,Online,Houston,Low,3,2025,No
+TXN010,C007,2025-03-05,Debit,125.9,Fuel,POS,Phoenix,Low,3,2025,No
+TXN011,C004,2025-03-08,Debit,5400.0,Electronics,Online,New York,High,3,2025,Yes
+TXN012,C008,2025-03-12,Debit,60.0,Coffee,Mobile,Chicago,Low,3,2025,No
+TXN013,C005,2025-04-01,Debit,230.4,Grocery,POS,Denver,Low,4,2025,No
+TXN014,C009,2025-04-04,Credit,3100.0,Salary,Online,Seattle,Low,4,2025,No
+TXN015,C010,2025-04-09,Debit,8900.0,Travel,Online,Los Angeles,High,4,2025,Yes
